@@ -1,11 +1,11 @@
 import './App.css';
-import CardList from './components/CardList.jsx';
+import CartList from './componentsprtc/CartList.jsx'
 
 
 function App() {
   return (
     <div className="App">
-     <CardList/>
+     <CartList/>
     </div>
   );
 }

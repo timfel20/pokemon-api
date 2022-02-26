@@ -2,6 +2,32 @@
   text-align: center;
 }
 
-.img{
-  width:500px
+.image{
+  width:200px
+}
+.data-container{
+  width: 400px;
+  height:60vh;
+  background-color: rgb(217, 238, 250);
+  border-radius: 50px;
+  box-shadow:rgb(14, 13, 13);
+  column-gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:10px
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap:wrap;
+}
+.title{
+  color: rgb(214, 154, 132);
+}
+.title-msg{
+  width: 100%;
+  margin-bottom: 40px;
+  color: lightseagreen;
 }
